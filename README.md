@@ -119,7 +119,7 @@ The primary goal is to determine the model that offers the best balance of high 
   ## Results
  | Model   | Accuracy | Precision | Recall | F1-Score | Notes |
 |---------|----------|----------|-------|-------|-------|
-| **RandomForestClassifier** | ~99.3%     | ~99.7%    | ~99.1 | ~99.3 |Stable training, strong generalization,Fast training |
+| **RandomForestClassifier** | ~98.6%     | ~98.6%    | ~99.1% | ~98.8% |Stable training, strong generalization,Fast training |
 
 | Model   | Accuracy | Precision | Recall | F1-Score |Notes |
 |---------|----------|-------|------|------|------|
